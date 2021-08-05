@@ -1,4 +1,4 @@
-# Abhijeet_Data_Analysis_Portfolio
+Abhijeet_Data_Analysis_Portfolio
 This is a web-page showing the projects I have worked upon when it comes to Data Analysis.
 
 # [Project 1: Analysis of Kaggle dataset: Video_Games_Sales](https://jovian.ai/abhi-gangalwar/video-games-sales-data)
