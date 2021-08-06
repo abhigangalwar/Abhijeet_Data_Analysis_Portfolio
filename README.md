@@ -1,6 +1,6 @@
+**Language Used: Python3**
 
 # [Project 1: Analysis of Kaggle dataset: Video_Games_Sales](https://github.com/abhigangalwar/Abhijeet_Data_Analysis_Portfolio/blob/main/video-games-sales-data.ipynb)
-**Language Used: Python3**
 * Analyzed the dataset using various Python libraries like pandas, matplotlib, numpy etc.
 * Gained good knowledge of using pandas to clean data and analyze the dataframe.
 * Performed visualization using seaborn and matplotlib to draw patterns out of data.
