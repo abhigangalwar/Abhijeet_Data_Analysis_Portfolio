@@ -1,11 +1,11 @@
 
 # [Project 1: Analysis of Kaggle dataset: Video_Games_Sales](https://jovian.ai/abhi-gangalwar/video-games-sales-data)
+**Language Used: Python3**
 * Analyzed the dataset using various Python libraries like pandas, matplotlib, numpy etc.
 * Gained good knowledge of using pandas to clean data and analyze the dataframe.
 * Performed visualization using seaborn and matplotlib to draw patterns out of data.
 * Used scatter plot to analyse the relationship between sales in North America and Global sales.
 * Please, go through the jupyter notebook hyperlinked with project title to see the depth of knowledge I gained from this project.
-**Language Used: Python3**
 ![](/images/Line%20plot.png)
 
 
