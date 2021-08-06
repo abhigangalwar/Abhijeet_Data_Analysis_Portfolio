@@ -7,6 +7,7 @@
 * Used scatter plot to analyse the relationship between sales in North America and Global sales.
 * Please, go through the jupyter notebook hyperlinked with project title to see the depth of knowledge I gained from this project.
 ![](/images/Genre.png)
+![](/images/Global%20sales%20bar.png)
 
 
 
