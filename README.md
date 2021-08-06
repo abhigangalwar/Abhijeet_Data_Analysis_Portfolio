@@ -6,7 +6,9 @@
 * Performed visualization using seaborn and matplotlib to draw patterns out of data.
 * Used scatter plot to analyse the relationship between sales in North America and Global sales.
 * Please, go through the jupyter notebook hyperlinked with project title to see the depth of knowledge I gained from this project.
+![](/images/Global%20sales%20bar.png)
 ![](/images/Global%20sales%20bar.PNG)
+
 
 
 # [Assignement 1: This assignment explains 5 most important numpy operations to deal with arrays.](https://github.com/abhigangalwar/Abhijeet_Data_Analysis_Portfolio/blob/main/numpy-array-operations.ipynb)
