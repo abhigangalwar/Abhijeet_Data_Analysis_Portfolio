@@ -23,4 +23,4 @@
 * Two modules named statsmodels and **sklearn** are used for making predictions.
 * Significance of model is tested using R-Sqaured and P value of independent variables.
 
-![](Multivariate_regresiion.png)
+![](/main/Multivariate_regresiion.png)
