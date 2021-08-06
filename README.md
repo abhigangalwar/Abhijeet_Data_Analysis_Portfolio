@@ -6,8 +6,7 @@
 * Performed visualization using seaborn and matplotlib to draw patterns out of data.
 * Used scatter plot to analyse the relationship between sales in North America and Global sales.
 * Please, go through the jupyter notebook hyperlinked with project title to see the depth of knowledge I gained from this project.
-![](/images/Global%20sales%20bar.png)
-![](/images/Global%20sales%20bar.PNG)
+![](/images/Genre.png)
 
 
 
