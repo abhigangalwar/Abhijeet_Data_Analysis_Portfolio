@@ -17,3 +17,7 @@
 * Some of the mistakes are also mentioned that one should avoid to run the code seamlessly.
 ![](/images/Numpy.png)
 
+# [Assignment 2: Predicting the score of student based on no. of hours studied](https://github.com/abhigangalwar/Supervised_Machine_Learning/blob/main/The%20Sparks%20Foundation-checkpoint.ipynb)
+* Two modules named statsmodels and **sklearn** are used for making predictions.
+* Significance of model is tested using R-Sqaured and P value of independent variables
+![](https://github.com/abhigangalwar/Supervised_Machine_Learning/blob/main/Multivariate_regresiion.png)
