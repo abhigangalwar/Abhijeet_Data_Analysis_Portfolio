@@ -2,10 +2,10 @@
 
 # [Project 1: Analysis of Kaggle dataset: Video_Games_Sales](https://github.com/abhigangalwar/Abhijeet_Data_Analysis_Portfolio/blob/main/video-games-sales-data.ipynb)
 * Analyzed the dataset using various Python libraries like pandas, matplotlib, numpy etc.
-* Gained good knowledge of using pandas to clean data and analyze the dataframe.
-* Performed visualization using seaborn and matplotlib to draw patterns out of data.
-* Used scatter plot to analyse the relationship between sales in North America and Global sales.
-* Please, go through the jupyter notebook hyperlinked with project title to see the depth of knowledge I gained from this project.
+* Gained excellent exposure to data cleaning and manupulation with pandas framework.
+* Performed visualizations using seaborn and matplotlib to draw patterns out of data.
+* Used regression to analyse the relationship between sales in North America and Global sales.
+* Please, go through the jupyter notebook hyperlinked with project title to see the depth of knowledge I have gained from this project.
 ![](/images/Genre.png)
 ![](/images/Global%20sales%20bar.png)
 
