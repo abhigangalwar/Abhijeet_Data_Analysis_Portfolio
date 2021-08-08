@@ -30,4 +30,4 @@
 * Found out whether there is a relationship between sepal length and sepal width of particular variety of flowers.
 
 
-![](/images/satosa%20img.png)
+![](/images/satosa%20font20.png)
