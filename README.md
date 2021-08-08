@@ -6,8 +6,8 @@
 * Performed visualizations using seaborn and matplotlib to draw patterns out of data.
 * Used regression to analyse the relationship between sales in North America and Global sales.
 * Please, go through the jupyter notebook hyperlinked with project title to see the depth of knowledge I have gained from this project.
-![](/images/Genre.png)
 ![](/images/Global_sales_Data.png)
+![](/images/Line_plot.png)      ![](https://github.com/abhigangalwar/Abhijeet_Data_Analysis_Portfolio/blob/main/images/Genre.png)
 
 
 
@@ -30,4 +30,4 @@
 * Found out whether there is a relationship between sepal length and sepal width of particular variety of flowers.
 
 
-![](/images/satosa%20font20.png)
+![](/images/satosa_img.png)
