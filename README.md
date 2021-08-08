@@ -19,8 +19,13 @@
 
 
 
-# [Assignment 2: Predicting the score of a student based on no. of hours studied](https://github.com/abhigangalwar/Supervised_Machine_Learning/blob/main/The%20Sparks%20Foundation-checkpoint.ipynb)
+# [Assignment 2: Supervised Machine Learning: Predicting the score of a student based on no. of hours studied.](https://github.com/abhigangalwar/Supervised_Machine_Learning/blob/main/The%20Sparks%20Foundation-checkpoint.ipynb)
 * Two modules named statsmodels and **sklearn** are used for making predictions.
 * Significance of model is tested using R-Sqaured and P value of independent variables.
 
 ![](/images/Multivariate_regresiion.png)
+
+# [Assignment 3: Unsupervised Machine Learning (Cluster Analysis): iris satosa dataset.](https://github.com/abhigangalwar/Abhijeet_Data_Analysis_Portfolio/blob/main/Satosa.ipynb)
+* Got hands on experience of performing cluster analysis, this is a very good statistical technique to perform market segmentation.
+* Found out whether there is a relationship between sepal length and sepal width of particular variety of flowers.
+![](https://github.com/abhigangalwar/Abhijeet_Data_Analysis_Portfolio/blob/main/satosa%20img.png)
