@@ -7,7 +7,7 @@
 * Used regression to analyse the relationship between sales in North America and Global sales.
 * Please, go through the jupyter notebook hyperlinked with project title to see the depth of knowledge I have gained from this project.
 ![](/images/Genre.png)
-![](/images/Global%20sales%20bar.png)
+![](/images/Global_sales_Data.png)
 
 
 
