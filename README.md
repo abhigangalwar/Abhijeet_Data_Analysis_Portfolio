@@ -28,4 +28,4 @@
 # [Assignment 3: Unsupervised Machine Learning (Cluster Analysis): iris satosa dataset.](https://github.com/abhigangalwar/Abhijeet_Data_Analysis_Portfolio/blob/main/Satosa.ipynb)
 * Got hands on experience of performing cluster analysis, this is a very good statistical technique to perform market segmentation.
 * Found out whether there is a relationship between sepal length and sepal width of particular variety of flowers.
-![](https://github.com/abhigangalwar/Abhijeet_Data_Analysis_Portfolio/blob/main/satosa%20img.png)
+![](/images/satosa%20img.png)
